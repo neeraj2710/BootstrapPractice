@@ -1,0 +1,17 @@
+container
+row
+col-
+col-sm
+col-md
+col-lg
+col-xl
+col-xxl
+card
+card-body 
+card-title 
+card-text 
+btn 
+btn-group 
+btn-primary 
+alert 
+alert-primary 
